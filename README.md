@@ -4,6 +4,8 @@ My most recent accomplishment is to have completed the Data Science Specializati
 
 My interests include social science data, sports data and teaching.  I am currently exploring Kaggle, making an app for my Father-in-Law's favorite TV show, and making my word predictor faster.
 
+You can reach me at datafan1618@gmail.com - I'd love to connect!
+
 <!---
 MrMikeK/MrMikeK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
